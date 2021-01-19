@@ -7,8 +7,9 @@ original project, https://github.com/xiaolaba/HC08_Timer_SDCC
 try and uses VScode to build the same code, SDCC
 
 prerequisition :
+all free of charge,
 SDCC 3.9 used, today perhaps 4.0, https://sourceforge.net/projects/sdcc/files/  
-minGW 32, http://sourceforge.net/projects/mingw/files/, uses [make], C:\MinGW\msys\1.0\bin  
+minGW 32 / mSYS, http://sourceforge.net/projects/mingw/files/, uses [make], path C:\MinGW\msys\1.0\bin  
 Vscode :　https://code.visualstudio.com/download  
 
 job done,  
