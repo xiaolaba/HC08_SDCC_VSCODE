@@ -17,10 +17,14 @@ job done,
 
 open vscode,   
   ctrl + shift + p,   
-  type git clone, select and input the github respository, accept and open the cloned code  
+  type "git clone", select,
+  input the link of this respository for clone,
   https://github.com/xiaolaba/SDCC_VSCODE_HC08    
   
+  select a local folder for the project clone
+  accept and open the cloned code 
+  
   open the timer.c, ignore any warning unless SDCC / MinGW is not installd  
-  [Terminal] / Run build Task, or press ctrl + shift + b  
+  [Terminal] / [Run build Task], or press ctrl + shift + b  
   
   timer.s19 will be build at /firmware/  
