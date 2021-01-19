@@ -8,9 +8,9 @@ try and uses VScode to build the same code, SDCC
 
 prerequisition :  
 all free of charge,  
-SDCC 3.9 used, today perhaps 4.0, https://sourceforge.net/projects/sdcc/files/  
-minGW 32 / mSYS, http://sourceforge.net/projects/mingw/files/, uses [make], path C:\MinGW\msys\1.0\bin  
-Vscode :　https://code.visualstudio.com/download  
+SDCC 3.9 used, today perhaps 4.0, [https://sourceforge.net/projects/sdcc/files/](https://sourceforge.net/projects/sdcc/files/)      
+minGW 32 / mSYS, [http://sourceforge.net/projects/mingw/files/](http://sourceforge.net/projects/mingw/files/), uses [make], path C:\MinGW\msys\1.0\bin    
+Vscode :　[https://code.visualstudio.com/download](https://code.visualstudio.com/download)    
 
 job done,  
 ![vscode_sdcc_hc08.JPG](vscode_sdcc_hc08.JPG)
