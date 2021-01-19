@@ -15,12 +15,12 @@ job done,
 ![vscode_sdcc_hc08.JPG](vscode_sdcc_hc08.JPG)
 
 
-open vscode, 
-  ctrl + shift + p, 
-  type git clone, select and input the github respository, accept and open the cloned code
-  https://github.com/xiaolaba/SDCC_VSCODE_HC08  
+open vscode,   
+  ctrl + shift + p,   
+  type git clone, select and input the github respository, accept and open the cloned code  
+  https://github.com/xiaolaba/SDCC_VSCODE_HC08    
   
-  open the timer.c, ignore any warning unless SDCC / MinGW is not installd
-  [Terminal] / Run build Task, or press ctrl + shift + b
+  open the timer.c, ignore any warning unless SDCC / MinGW is not installd  
+  [Terminal] / Run build Task, or press ctrl + shift + b  
   
-  timer.s19 will be build at /firmware/
+  timer.s19 will be build at /firmware/  
