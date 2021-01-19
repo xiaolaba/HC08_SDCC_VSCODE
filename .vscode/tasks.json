@@ -1,0 +1,27 @@
+{
+
+    "version": "1.0.0",
+    "tasks": [
+        {
+            "label": "clean",
+            "type": "process",
+            "command": "C:\\MinGW\\msys\\1.0\\bin\\make.exe",
+            "args": [
+                "clean"
+            ],
+            "problemMatcher": []
+        },
+        {
+            "label": "all",
+            "type": "process",                  
+            "command": "C:\\MinGW\\msys\\1.0\\bin\\make.exe",
+            "args": [
+                "target=${fileBasenameNoExtension}"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

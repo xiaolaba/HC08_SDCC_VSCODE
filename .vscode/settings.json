@@ -1,0 +1,17 @@
+{
+
+    "files.associations": {
+        "mc68hc908apxx.h": "c",
+        "mc68hc908gp32.h": "c",
+        "mc68hc908jb8.h":  "c",
+        "mc68hc908jkjl.h": "c",
+        "mc68hc908qy.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "cmake.configureOnOpen": false
+
+
+    
+
+}
+
